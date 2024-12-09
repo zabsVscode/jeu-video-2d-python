@@ -1,0 +1,2 @@
+# Fonctions utilitaires, par exemple pour le calcul de dégâts
+#Ce fichier peut contenir des fonctions utilitaires réutilisables dans votre jeu, comme des fonctions de calcul de dégâts, de gestion des événements, etc.

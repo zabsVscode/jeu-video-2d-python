@@ -1,0 +1,5 @@
+{
+    "//" : "#Configuration pour le débogage",
+    "///" : "Vous pouvez configurer les paramètres de débogage pour votre projet Python,",
+    "////" : "par exemple en configurant des points d'arrêt (breakpoints), des arguments de ligne de commande, etc."
+}
